@@ -1,1 +1,1 @@
-Writing code trying to put my knowledge of Go to use :)
+writing code trying to put knowledge of Go to use :)
